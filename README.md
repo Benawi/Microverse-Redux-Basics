@@ -27,9 +27,9 @@
 
 - [📝 License](#license)
 
-# 📖 Book Store React Project <a name="about-project"></a>
+# 📖  Redux Toolkit - React Project <a name="about-project"></a>
 
-Book Store React Project - Microverse! - An online Bookstore app built with React, Redux, CSS, and HTML. Users can browse books by category, add them to a cart, and proceed to checkout. The app features a search function, allowing users to search for books by title or author. project is a repository consisting of the following files:
+ Redux Toolkit - React Project - Microverse! - An online app built with React, Redux, CSS, and HTML. Users can browse books by category, add them to a cart, and proceed to checkout. The app features a search function, allowing users to search for books by title or author. project is a repository consisting of the following files:
 - Html files
 - CSS files
 - JS files
@@ -783,7 +783,7 @@ const cartSlice = createSlice({
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🌐 Live Demo <a name="#live-demo"></a>
-- [React Book Store Web App](https://benawi.github.io/Microverse-React-Bookstore/) 
+- [React Web App](#) 
 - Learn More [How to deploy react app](https://github.com/gitname/react-gh-pages)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
