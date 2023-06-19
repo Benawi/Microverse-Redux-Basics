@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
+![image](https://github.com/Benawi/Microverse-Redux-Basics/assets/21217148/2745e831-5f08-4b74-a70f-c0e7115835af)
 
-![image](https://github.com/Benawi/Microverse-React-Bookstore/assets/21217148/fbc35a98-66d6-4ad3-9451-3744a236479f)
 
 
 
